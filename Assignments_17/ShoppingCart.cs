@@ -45,4 +45,12 @@ namespace Assignments_17
             }
         }
     }
+
+    public class ShoppingCart2
+    {
+        public void Show()
+        {
+            Console.WriteLine("This is a Shopping Cart2 Function");
+        }
+    }
 }

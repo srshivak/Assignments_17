@@ -42,6 +42,10 @@ GreatestOfThree gt =  new GreatestOfThree();
 gt.Display();
 */
 
-ShoppingCart sc = new ShoppingCart;
+
+ShoppingCart sc = new ShoppingCart();
 sc.GetDetails();
 sc.DisplayBill();
+
+ShoppingCart2 sc2 = new ShoppingCart2();
+sc2.Show();
